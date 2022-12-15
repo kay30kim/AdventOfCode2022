@@ -139,10 +139,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Day02_1.cpp" />
+    <ClCompile Include="Day02_1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day03_1.cpp" />
+    <ClCompile Include="Day03_2.cpp" />
+    <ClCompile Include="FCoreMain.cpp">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input02_1.txt" />
+    <Text Include="input03.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Advent.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

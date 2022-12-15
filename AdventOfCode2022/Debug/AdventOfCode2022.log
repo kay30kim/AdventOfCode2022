@@ -1,6 +1,10 @@
 ﻿  Day02_1.cpp
-C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day02_1.cpp(41,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day02_1.cpp(49,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
-C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day02_1.cpp(49,11): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day02_1.cpp(49,11): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day02_1.cpp(21,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Day03_1.cpp
+C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day03_1.cpp(27,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Day03_2.cpp
+C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\Day03_2.cpp(19,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  FCoreMain.cpp
+C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\FCoreMain.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   AdventOfCode2022.vcxproj -> C:\Users\USER\Desktop\kay\study\AdventOfCode2022\AdventOfCode2022\Debug\AdventOfCode2022.exe
